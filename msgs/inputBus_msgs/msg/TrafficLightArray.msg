@@ -1,0 +1,4 @@
+std_msgs/Header header
+inputBus_msgs/TrafficLight[] trafficLights
+uint16 number_of_lights
+time creation_timestamp
