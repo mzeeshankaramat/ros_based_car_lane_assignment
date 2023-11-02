@@ -1,0 +1,8 @@
+<launch>    
+    
+    <node name="Lane_Assignment" pkg="lane_assignment" type="lane_assignment_node"  output="screen" respawn="true">
+    </node>
+
+   <test test-name="testLaneAssignment" pkg="lane_assignment" type="testLaneAssignment" time-limit="999999.0"/>
+   
+</launch>

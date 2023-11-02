@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lane_assignment</name>
+  <version>1.0.0</version>
+  <description>The lane_assignment package</description>
+
+  <maintainer email="zeeshan.karamatsatti@gmail.com">zeeshan</maintainer>
+
+  <license>TODO</license>
+
+  <!--   <doc_depend>doxygen</doc_depend> -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+</package>
